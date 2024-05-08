@@ -1,0 +1,9 @@
+{
+	"name": "ADFSudhir2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fcbbc8bd-f3ee-4c04-8450-fd74ce487d46",
+		"tenantId": "08c05a17-4ea5-4c4b-ba0e-978f21e4a24a"
+	}
+}
