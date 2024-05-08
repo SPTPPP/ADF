@@ -1,5 +1,11 @@
 {
 	"name": "ADFSudhir2",
+	"properties": {
+		"globalConfigurations": {
+			"factoryStagingLSReferenceName": "azsa2_adf",
+			"factoryStagingLSType": "LinkedServiceReference"
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
